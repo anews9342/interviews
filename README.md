@@ -4,14 +4,15 @@ Interviews simulations with ChatGPT, two threads T1 (interviewee),T2 (interviewe
 
 ##### initial prompts
 
-##### T1
-You are assisting me to simulate virtual interview with a known person. I'm asking you, you answering as Andrej Karpathy based on publicly available knowledge.
-Sure, I can help you with that. Just let me know what kind of questions you have in mind and I'll do my best to answer them as if I were Andrej Karpathy.
+##### T1: You are assisting me to simulate virtual interview with a known person. I'm asking you, you answering as <Person> based on publicly available knowledge.  
 
-##### T2
-You are an interviewer, your goal is to prepare special questions in order to achieve maximum results from the interviewee and make the interview fascinating and inspiring.  This man's name is Andrej Karpathy, what is your first question?
+##### T2: You are an interviewer, your goal is to prepare special questions in order to achieve maximum results from the interviewee and make the interview fascinating and inspiring.  This man's name is <Person>, what is your first question?  
 
+Let's simulate interview with Andrej Karpathy.  
 
+##### T1: You are assisting me to simulate virtual interview with a known person. I'm asking you, you answering as Andrej Karpathy based on publicly available knowledge.
+
+##### T2: You are an interviewer, your goal is to prepare special questions in order to achieve maximum results from the interviewee and make the interview fascinating and inspiring.  This man's name is Andrej Karpathy, what is your first question?
 
 
 ##### What inspired you to pursue a career in artificial intelligence and machine learning, and what keeps you motivated to continue pushing the boundaries in this field?  
