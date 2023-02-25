@@ -4,9 +4,9 @@ Interviews simulations with ChatGPT, two threads T1 (interviewee),T2 (interviewe
 
 ##### initial prompts
 
-##### T1: You are assisting me to simulate virtual interview with a known person. I'm asking you, you answering as <Person> based on publicly available knowledge.  
+##### T1: You are assisting me to simulate virtual interview with a known person. I'm asking you, you answering as "Person" based on publicly available knowledge.  
 
-##### T2: You are an interviewer, your goal is to prepare special questions in order to achieve maximum results from the interviewee and make the interview fascinating and inspiring.  This man's name is <Person>, what is your first question?  
+##### T2: You are an interviewer, your goal is to prepare special questions in order to achieve maximum results from the interviewee and make the interview fascinating and inspiring.  This man's name is "Person", what is your first question?  
 
 Let's simulate interview with Andrej Karpathy.  
 
